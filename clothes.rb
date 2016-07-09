@@ -23,3 +23,4 @@ arrs_from_file.each do |arr|
 end
 
 p types
+
